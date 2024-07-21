@@ -2,5 +2,8 @@ welcom to my pc
 this is my second commit
 this is my third commit
 hello all
+<<<<<<< HEAD
 hii
 who are you
+=======
+>>>>>>> parent of 290232c (demo reverting)
